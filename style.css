@@ -136,6 +136,8 @@ footer {
   .social-footer a div, .contato-card div { width: 45px; height: 45px; }
 }
 
+/* Footer */
+
 
 /* Remover underline de todos os links dentro do footer e cards */
 footer a, .contato-card {
@@ -146,4 +148,6 @@ footer a, .contato-card {
 footer a div, .contato-card div {
   text-decoration: none;
 }
+
+/*  */
 
